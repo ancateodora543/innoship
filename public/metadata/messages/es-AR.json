@@ -1,0 +1,16 @@
+{
+    "name": "Innoship",
+    "headline": "Integración de API con la plataforma de optimización de entrega de Innoship",
+    "overview": "Evalúe el rendimiento de sus mensajeros, agilice sus entregas y mejore la experiencia de compra de sus clientes mediante el uso de la API de Innoship. //n Con el sistema dinámico de asignación de pedidos de Innoship, reduzca sus gastos y aumente el rendimiento de sus entregas desde el primer paquete. //n Innoship puede reducir sus costos de envío hasta en un 25%, aumentar la calidad de su servicio de entrega hasta en un 15%, y se ahorrará hasta 20 horas cada mes. //n Únase a las tiendas que optimizan su proceso de entrega en el mundo.",
+    "features": [
+        "Varias parcelas y distribución del peso",
+        "Opción para que el destinatario admita los gastos de envío",
+        "Simulación de envío",
+        "Puntos de recogida de Innoship",
+        "Actualizaciones periódicas de Innoship AWB"
+    ],
+    "websiteURL": "https://innoship.com/en/",
+    "support": {
+        "url": "https://innoship.com/en/"
+    }
+}

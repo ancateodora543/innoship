@@ -1,0 +1,16 @@
+{
+    "name": "Innoship",
+    "headline": "Integrare cu Innoship API pentru optimizarea comenzilor",
+    "overview": "Evaluează performanța curierilor, optimizează livrările și îmbunătățește experiența de cumpărare a clienților tăi cu aplicația Innoship. //n Cu sistemul dinamic de alocare a comenzilor Innoship, îți scazi cheltuielile și îți crești performanța livrărilor de la primul colet. //n Scazi costurile lunare de livrare cu 25%, crești calitatea serviciului de livrare cu 15%, economisești timp lunar până la 20 de ore. //n Alătură-te sutelor de retaileri care își optimizează procesul de livrare peste tot în lume.",
+    "features": [
+        "Colete multiple și distribuirea greutății",
+        "Opțiune pentru destinatar de a suporta costurile livrării",
+        "Simularea expedierii",
+        "Puncte de ridicare Innoship",
+        "Actualizarea periodică a AWB-urilor Innoship"
+    ],
+    "websiteURL": "https://innoship.com/en/",
+    "support": {
+        "url": "https://innoship.com/en/"
+    }
+}

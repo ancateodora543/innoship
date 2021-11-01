@@ -1,0 +1,16 @@
+{
+    "name": "Innoship",
+    "headline": "Innoship API Integration for delivery optimization",
+    "overview": "Assess your couriers' performance, streamline your deliveries and improve your customers' shopping experience by using the Innoship API. //n With Innoship's dynamic order allocation system, lower your expenses and increase the performance of your deliveries from the first package. //n Innoship can reduce your shipping costs by up to 25%, increase the quality of your delivery service by up to 15%, and you will save up to 20 hours each month. //n Join the hundreds of retailers that optimize their delivery process across the world.",
+    "features": [
+        "Multiple parcels and weight distribution",
+        "Option for the receiver to support the shipping charges",
+        "Shipping simulation",
+        "Innoship pickup points",
+        "Periodic Innoship AWB updates"
+    ],
+    "websiteURL": "https://innoship.com/en/",
+    "support": {
+        "url": "https://innoship.com/en/"
+    }
+}
